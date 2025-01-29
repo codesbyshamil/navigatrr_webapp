@@ -1,0 +1,18 @@
+{
+  "domestic": [
+    {
+      "name": "Bangalore",
+      "image": "assets/bangalore.jpeg"
+    },
+    {
+      "name": "Mysore",
+      "image": "assets/mysore.jpeg"
+    }
+  ],
+  "abroad": [
+    {
+      "name": "New York",
+      "image": "assets/newyork.jpeg"
+    }
+  ]
+}
